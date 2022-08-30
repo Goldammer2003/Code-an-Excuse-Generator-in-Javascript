@@ -9,9 +9,9 @@ window.onload = () => {
 }
 
 let generateExcuse = () => {
-    let pronoun [];
-    let subject [];
-    let verb [];
-    let place [];
+    let pronoun "The",];
+    let subject ['cat', 'dog' 'my brother' 'rabbit'];
+    let verb [ "took my" ,"ate my", "stole my" ];
+    let place "in my house" ,"in my garden" ,"in my room" ,"in my backjard"];
     return "My dog ate my homework"
 };
